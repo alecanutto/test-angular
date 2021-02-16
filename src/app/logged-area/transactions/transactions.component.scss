@@ -1,0 +1,13 @@
+* {
+    height: 100vh;
+}
+
+.transaction-content {
+    display: flex;
+    justify-content: flex-end;
+    padding: 1rem;
+}
+
+#newTransaction {
+    height: 30px;
+}
